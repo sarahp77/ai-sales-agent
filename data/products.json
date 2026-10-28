@@ -1,0 +1,26 @@
+[
+  {
+    "id": "prod_101",
+    "name": "Applied AI Engineering Course",
+    "price_usd": 149,
+    "status": "available",
+    "category": "Education",
+    "description": "Comprehensive hands-on course covering Python, API integration, and LangGraph multi-agent architectures."
+  },
+  {
+    "id": "prod_102",
+    "name": "1-on-1 AI Career Consultation (45 Min)",
+    "price_usd": 79,
+    "status": "limited_slots",
+    "category": "Consulting",
+    "description": "Deep portfolio review and international remote work strategy session with an industry expert."
+  },
+  {
+    "id": "prod_103",
+    "name": "Enterprise LangGraph Agent Templates",
+    "price_usd": 89,
+    "status": "out_of_stock",
+    "category": "Developer Tools",
+    "description": "Production-ready templates for customer support, CRM auto-sync, and automated sales workflows."
+  }
+]
