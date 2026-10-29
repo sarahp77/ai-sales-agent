@@ -3,6 +3,8 @@
 A conversational AI assistant designed for product recommendation and dynamic inventory querying. The project implements a cyclic state graph using **LangGraph** to handle multi-turn dialog, execute tool calls against a local catalog, and maintain conversational boundaries through system-level guardrails.
 
 ---
+   ## 📺 Demo
+   ![Nova AI Sales Agent Demo](./assets/demo.gif)
 
 ## Overview & Architecture
 
