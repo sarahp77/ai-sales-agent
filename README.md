@@ -4,7 +4,9 @@ A conversational AI assistant designed for product recommendation and dynamic in
 
 ---
    ## 📺 Demo
-   ![Nova AI Sales Agent Demo](./assets/demo.gif)
+![Demo](assets/demo.gif)
+
+
 
 ## Overview & Architecture
 
